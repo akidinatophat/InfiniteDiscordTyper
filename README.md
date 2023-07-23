@@ -2,6 +2,8 @@
 A really easy to use infinite Discord typing PowerShell script, with a neat GUI, no config.json required.
 
 # How to use
+Run the script in PowerShell. On Windows 10, right click on it, and click "Run with PowerShell"
+
 Make sure Developer Mode is enabled, by going to Settings > App Settings > Advanced > Developer Mode.
 
 Now, login to Discord in your favorite web browser. Once you're in, you'll need to get your Authorization token, which can be done by entering DevTools(F12 or CTRL-SHIFT-I on most browsers), going to Console, and pasting the following:
