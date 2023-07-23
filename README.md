@@ -10,7 +10,7 @@ Now, login to Discord in your favorite web browser. Once you're in, you'll need 
 
 ```(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()```
 
-which should return a long string of letters. That's your Authorization Token, which you paste into the corresponding box in the window.
+which should return a long string of letters. That's your Authorization Token, which you paste into the corresponding box in the window, without quotes.
 
 Now that the hard part's out of the way, you'll now need your Channel ID. Right click on the channel you want to infinitely type in, and click "Copy Channel ID". Paste it into the Channel ID box.
 
